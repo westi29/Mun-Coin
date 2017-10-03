@@ -22,12 +22,12 @@ There are 5 votes in The Council.
   The smallest fraction of a Mun Coin will still count as a percentage of a coin's full vote. 
   Wallets can split tokens between different voting positions. However, the largest voting position per wallet will count as
   that wallet's vote.
-2. The Top Vote, which is decided by giving each wallet in the top 33% of Mun Coin wallets one vote.
-  Each wallet address in the top 33% of Mun Coin containing wallets is granted one vote, with majority vote winning.
-3. The Bottom Vote, which is decided by giving each wallet in the bottom 33% of Mun Coin wallets one vote.
-  Each wallet address in the bottom 33% of Mun Coin containing wallets is granted one vote, with majority vote winning.
-4. The Middle Vote, which is decided by giving each wallet in the midle 33% of Mun Coin wallets one vote.
-  Each wallet address in the middle 33% of Mun Coin containing wallets is granted one vote, with majorite vote winning.
+2. The Top Vote, which is decided by giving each wallet in the top 33.3% of Mun Coin wallets one vote.
+  Each wallet address in the top 33.3% of Mun Coin containing wallets is granted one vote, with majority vote winning.
+3. The Bottom Vote, which is decided by giving each wallet in the bottom 33.3% of Mun Coin wallets one vote.
+  Each wallet address in the bottom 33.3% of Mun Coin containing wallets is granted one vote, with majority vote winning.
+4. The Middle Vote, which is decided by giving each wallet in the midle 33.4% of Mun Coin wallets one vote.
+  Each wallet address in the middle 33.4% of Mun Coin containing wallets is granted one vote, with majorite vote winning.
 5. The Company Vote, which is decided by the 3 Board of Directors of the Company.
   Each member of the Board of Directors is given one vote with majority vote winning.
   The members are the Chairman of the Board, the President, and the Advocate.
