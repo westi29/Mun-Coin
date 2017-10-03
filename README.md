@@ -67,17 +67,17 @@ Typical Early Vacation:
   Estimated Passener Capacity: 100 Cabins.
 
 
-  1: Earth to Low Earth Orbit and Lunar Transit Burn.
-  2: Lunar Transit.
-  3: Lunar Transit.
-  4: Lunar Transit and Lunar Orbital Insertion Burn and Lunar Orbit.
-  5: Lunar Surface.
-  6: Lunar Surface.
-  7: Lunar Surface.
-  8: Lunar Surface and Lunar Escape Burn on Free Return Trajectory.
-  9: Lunar Transit.
-  10: Lunar Transit.
-  11: Earth Reentry and Landing.
+  1. Earth to Low Earth Orbit and Lunar Transit Burn.
+  2. Lunar Transit.
+  3. Lunar Transit.
+  4. Lunar Transit and Lunar Orbital Insertion Burn and Lunar Orbit.
+  5. Lunar Surface.
+  6. Lunar Surface.
+  7. Lunar Surface.
+  8. Lunar Surface and Lunar Escape Burn on Free Return Trajectory.
+  9. Lunar Transit.
+  10. Lunar Transit.
+  11. Earth Reentry and Landing.
 
 
 
