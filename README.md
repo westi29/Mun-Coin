@@ -22,11 +22,12 @@ The mission will develop a landing site as well refueling, water and oxygen prod
 Mun Coins will then be used to purchase tickets on a vacation to this landing site.
 The collected coins will be sold on exchanges to pay for a SpaceX BFR mission to ferry the tourists to and from the moon.
 Profit from the mission will be used to fund several hybrid missions of tourism and construction.
-Expanding the site to include a permnant crew and facilities.
+Expanding the site to include a permanent crew and facilities.
 The only accepted currency on the colony is Mun Coin.
 All tickets will be sold for Mun Coin.
 All transactions will be in Mun Coin.
-The colony will sell access to other companies in the future.
+The colony will sell access to other companies in the future, using the funds to build out infrastructure for further expansion.
+
 
 
 
