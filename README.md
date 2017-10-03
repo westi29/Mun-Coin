@@ -63,7 +63,7 @@ All transactions will be in Mun Coin.
 The colony will sell access to other companies in the future, using the funds to build out infrastructure for further expansion.
 
 Typical Early Vacation: 
-  Estimated Ticket Cost in USD: $1,000,000 per Cabin.
+  Estimated Ticket Cost in USD: $1M per Cabin.
   Estimated Passener Capacity: 100 Cabins.
 
 
