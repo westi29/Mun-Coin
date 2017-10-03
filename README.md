@@ -63,21 +63,21 @@ All transactions will be in Mun Coin.
 The colony will sell access to other companies in the future, using the funds to build out infrastructure for further expansion.
 
 Typical Early Vacation: 
-Estimated Ticket Cost in USD: $1,000,000 per Cabin.
-Estimated Passener Capacity: 100 Cabins.
+  Estimated Ticket Cost in USD: $1,000,000 per Cabin.
+  Estimated Passener Capacity: 100 Cabins.
 
 
-Day 1: Earth to Low Earth Orbit and Lunar Transit Burn.
-Day 2: Lunar Transit.
-Day 3: Lunar Transit.
-Day 4: Lunar Transit and Lunar Orbital Insertion Burn and Lunar Orbit.
-Day 5: Lunar Surface.
-Day 6: Lunar Surface.
-Day 7: Lunar Surface.
-Day 8: Lunar Surface and Lunar Escape Burn on Free Return Trajectory.
-Day 9: Lunar Transit.
-Day 10: Lunar Transit.
-Day 11: Earth Reentry and Landing.
+  Day 1: Earth to Low Earth Orbit and Lunar Transit Burn.
+  Day 2: Lunar Transit.
+  Day 3: Lunar Transit.
+  Day 4: Lunar Transit and Lunar Orbital Insertion Burn and Lunar Orbit.
+  Day 5: Lunar Surface.
+  Day 6: Lunar Surface.
+  Day 7: Lunar Surface.
+  Day 8: Lunar Surface and Lunar Escape Burn on Free Return Trajectory.
+  Day 9: Lunar Transit.
+  Day 10: Lunar Transit.
+  Day 11: Earth Reentry and Landing.
 
 
 
